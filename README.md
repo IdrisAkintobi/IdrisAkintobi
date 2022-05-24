@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Fira+Code%22&center=true&vCenter=true&width=720&lines=%E2%9C%A8+Full+Stack+Web+Developer+%E2%9C%A8;%3D%3E+Develop+front+end+website+architecture+;%3D%3E+Design+user+interactions+on+web+pages;%3D%3E+Develop+back-end+website+applications;%3D%3E+Creat+servers+and+databases+for+functionality;%3D%3E+Ensuring+cross-platform+optimization;%3D%3E+Work+alongside+graphic+designers;%3D%3E+Design+and+develop+APIs;%3D%3E+Implement+effective+security+protocols)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Fira+Code%22&center=true&vCenter=true&width=720&lines=%E2%9C%A8+Full+Stack+Web+Developer+%E2%9C%A8;%3D%3E+Develop+front+end+website+architecture+;%3D%3E+Design+user+interactions+on+web+pages;%3D%3E+Develop+back-end+website+applications;%3D%3E+Create+servers+and+databases+for+functionality;%3D%3E+Ensuring+cross-platform+optimization;%3D%3E+Work+alongside+graphic+designers;%3D%3E+Design+and+develop+APIs;%3D%3E+Implement+effective+security+protocols)](#)
 
 I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a **Full stack web developer** with extensive experience in business. I am a quick learner who thrives in many surroundings and circumstances. I am solution-focused, able to successfully self-manage separate tasks and engage as a productive team member. My ideal team would be one that encourages and supports each other as we collaborate to achieve our goals.
 
