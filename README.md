@@ -25,5 +25,4 @@ I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a 
 [![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](#)
 [![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#)
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#) -->
