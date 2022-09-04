@@ -40,13 +40,6 @@ I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a 
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud- -->
 
-[![](https://activity-graph.herokuapp.com/graph?username=IdrisAkintobi&theme=minimal)](#)
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IdrisAkintobi&theme=vue)](#)
-
-[![](https://github-readme-stats.vercel.app/api?username=IdrisAkintobi)](#)
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=IdrisAkintobi)](#)
 
 
-<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#)
