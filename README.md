@@ -37,9 +37,10 @@ I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a 
 [![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](#)
 [![](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)](#)
 
-
+<!-- For buttons -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile#-cloud- -->
-
+<!-- For Streak -->
+<!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#)
