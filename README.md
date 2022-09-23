@@ -43,4 +43,4 @@ I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a 
 <!-- https://github-readme-streak-stats.herokuapp.com/demo/ -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IdrisAkintobi&theme=blue-green)](#)  -->
