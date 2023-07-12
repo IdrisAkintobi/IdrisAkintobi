@@ -2,9 +2,9 @@
 
 ### Hi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Fira+Code%22&center=true&vCenter=true&width=720&lines=%E2%9C%A8+Full+Stack+Web+Developer+%E2%9C%A8;%3D%3E+Develop+front+end+website+architecture+;%3D%3E+Design+user+interactions+on+web+pages;%3D%3E+Develop+back-end+website+applications;%3D%3E+Create+servers+and+databases+for+functionality;%3D%3E+Ensuring+cross-platform+optimization;%3D%3E+Work+alongside+graphic+designers;%3D%3E+Design+and+develop+APIs;%3D%3E+Implement+effective+security+protocols)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Fira+Code%22&center=true&vCenter=true&width=720&lines=%E2%9C%A8+Full+Stack+Software+Engineer+%E2%9C%A8;%3D%3E+Design+and+develop+user+interactions+on+web+pages;%3D%3E+Design+and+develop+back-end+systems;%3D%3E+Create+servers+and+databases+for+functionality;%3D%3E+Ensuring+cross-platform+optimization;%3D%3E+Design+and+develop+APIs;%3D%3E+Implement+effective+security+protocols)](#)
 
-I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a **Full stack web developer** with substantial business experience. I am a quick learner who thrives in diverse environments and contexts. Because I'm solution-oriented, I've been able to overcome web design and development obstacles, allowing me to have a significant impact on multiple product developments. I focus on continuous improvement, drive efficiency through quality, and make data-driven decisions while keeping the customer in mind. I can effectively self-manage independent projects and collaborate as a productive team member. My ideal team would promote and supports each other as we collaborate to achieve our goals.
+I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a talented **Full stack software engineer** with a focus on Node.js and React. With over three years of experience, I have comprehensive understanding of frontend and backend development, strong technical competence, and a solution-focused attitude to offer new solutions and boost productivity in both B2C and B2B settings.
 
 
 ## 🚀 Skills
