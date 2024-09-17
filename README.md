@@ -2,9 +2,7 @@
 
 ### Hi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=%22Fira+Code%22&center=true&vCenter=true&width=720&lines=%E2%9C%A8+Full+Stack+Software+Engineer+%E2%9C%A8;%3D%3E+Design+and+develop+user+interactions+on+web+pages;%3D%3E+Design+and+develop+back-end+systems;%3D%3E+Create+servers+and+databases+for+functionality;%3D%3E+Ensuring+cross-platform+optimization;%3D%3E+Design+and+develop+APIs;%3D%3E+Implement+effective+security+protocols)](#)
-
-I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a talented **Software Engineer**. With four years of experience in software development, I have comprehensive understanding of frontend and backend development, strong technical competence, and a solution-focused attitude to offer new solutions and boost productivity in both B2C and B2B settings.
+I am **<a href="https://idrisakintobi.github.io" target="_blank">Idris</a>**, a talented **Software Engineer**. With four years of experience in software development, I have comprehensive understanding of frontend and backend development, strong technical competence, and a solution-focused attitude to offer solutions and boost productivity in both B2C and B2B settings.
 
 
 ## 🚀 Skills
