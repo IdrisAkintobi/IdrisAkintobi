@@ -76,7 +76,7 @@
 ## 🤝 Let's Connect
 
 - 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/idrisakintobi)
-- 📧 **Email**: [your.email@example.com](mailto:akintobiidris@gmail.com)
+- 📧 **Email**: [Send email](mailto:akintobiidris@gmail.com)
 [^Comment]:  # - 🌐 **Portfolio**: [idrisakintobi.github.io](https://idrisakintobi.github.io)
 
 ---
